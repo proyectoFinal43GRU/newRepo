@@ -10,3 +10,4 @@
 7. git ceckout -d new-branch
 8. git cranch
 9. git checkout master
+10. git merge new-branch
