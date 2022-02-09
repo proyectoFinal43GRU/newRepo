@@ -11,3 +11,4 @@
 8. git cranch
 9. git checkout master
 10. git merge new-branch
+11. git push
